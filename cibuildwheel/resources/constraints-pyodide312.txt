@@ -21,11 +21,11 @@ click==8.1.7
     # via typer
 cloudpickle==3.0.0
     # via loky
-cmake==3.29.5
+cmake==3.29.5.1
     # via pyodide-build
 distlib==0.3.8
     # via virtualenv
-filelock==3.14.0
+filelock==3.15.1
     # via virtualenv
 h11==0.14.0
     # via httpcore
